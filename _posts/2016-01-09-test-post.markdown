@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "test-post"
+date:   2016-01-09 1:54:57 -0500
+categories: general
+---
+<img src = "/assets/20022_anime_scenery.jpg">
+hello
