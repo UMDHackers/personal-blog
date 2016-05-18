@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Starting C++ Part 1"
+date:   2016-02-03 10:00:00 -0500
+---
+
+First question you may wondering why you would be trying to learn C++, like what's the point? Well I already learned C and I know Java like the back of hand! C++ is like right between C and Java so it just seems like I should pick it up!
+
+(http://stream1.gifsoup.com/view7/20160107/5283404/i-know-this-place-like-the-back-of-my-hand-o.gif)
+
+But really C++ has a lot of benefits, from what I have heard there are alot of benefits of C++ over C:
+ * Static typing
+ * Object oriented programming
+ * Exception Handling
+ * Generic
+ * C++ standard library
+
+And furthermore java vs C++ is very well explained here in this lovely wiki article [link] (https://en.wikipedia.org/wiki/Comparison_of_Java_and_C%2B%2B).
+
+I decided to follow a project-learning process to learn C++. Project-learning process of learning a language or skill by doing a project rather reading books or taking a course. If you ever get stuck you google it! **BUT** don't just copy code from stackoverflow or some other coding forum! A couple of alternatives is to not look at the code answer but rather the explanation and you can look a documentation which really helps to look at. Lastly remember to plan what you want to create!
+
+Creating a project form scratch is very difficult! Some tips I have is:
+  * If you are learning a language. Figure out some key features of the language and create a project based on that, so for example if you wanna learn PROLOG, you could work on a AI project like a poker game or something.
+  * [1000+ projects] (https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
+  * Do something simple like making alarm clock, making a input/output, doing some sorting
+  * Look at [project euler dot com] (https://projecteuler.net/) or [beginner projects on Github] (https://github.com/karan/Projects-Solutions/blob/master/README.md)
+
+Also always plan your projects because the number killer of great ideas is lack of motivation, trust me I've been there.
+
+Here is my project ideas:
+  * Sorting in C++
+    * Great for learning the in's and out's of a language
+  * Insertion Sorting
+  * Merge Sorting
+  * Quick Sorting
+
+
+-PD
