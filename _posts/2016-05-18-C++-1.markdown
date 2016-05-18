@@ -2,6 +2,7 @@
 layout: post
 title:  "Learning C++ Part 1"
 date:   2016-05-18 10:00:00 -0500
+categories: general
 ---
 
 First question you may wondering why you would be trying to learn C++, like what's the point? Well I already learned C and I know Java like the back of hand! C++ is like right between C and Java so it just seems like I should pick it up!
